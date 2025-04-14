@@ -1,12 +1,43 @@
-# React + Vite
+# Prueba Técnica – Frontend Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hola Fernando,
 
-Currently, two official plugins are available:
+Este proyecto fue desarrollado como parte de la prueba técnica para el puesto de Frontend Developer. La aplicación fue construida utilizando **React** junto con **Vite** para un entorno de desarrollo ágil, y **Tailwind CSS** para el diseño de interfaces modernas y responsivas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías utilizadas
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Instrucciones para correr el proyecto localmente
+
+1. Clona este repositorio:
+   ```bash
+   git clone [URL_DEL_REPO]
+   ```
+
+2. Accede a la carpeta del proyecto:
+   ```bash
+   cd nombre-del-repo
+   ```
+
+3. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+
+4. Inicia el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
+
+5. Abre tu navegador y visita:
+   ```
+   http://localhost:5173
+   ```
+
+Cualquier comentario o ajuste adicional que necesites, estoy atento.
+
+Saludos,  
+Edgardo Silva
