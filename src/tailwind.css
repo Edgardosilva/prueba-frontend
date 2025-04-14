@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #FBBD2E;
+  --color-secondary: #241752;
+  --color-background: #F3F3F4;
+}
+
+.roboto-condensed {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
