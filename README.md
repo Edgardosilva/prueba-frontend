@@ -2,7 +2,7 @@
 
 Hola Fernando,
 
-Este proyecto fue desarrollado como parte de la prueba técnica para el puesto de Frontend Developer. La aplicación fue construida utilizando **React** junto con **Vite** para un entorno de desarrollo ágil, y **Tailwind CSS** para el diseño de interfaces modernas y responsivas.
+Este proyecto fue desarrollado como parte de la prueba técnica para el puesto de Frontend Developer. La aplicación fue construida utilizando **React** junto con **Vite**, y **Tailwind CSS** para el diseño y maquetación
 
 ## Tecnologías utilizadas
 
@@ -14,13 +14,11 @@ Este proyecto fue desarrollado como parte de la prueba técnica para el puesto d
 
 1. Clona este repositorio:
    ```bash
-   git clone [URL_DEL_REPO]
+   git clone https://github.com/Edgardosilva/prueba-frontend
    ```
 
-2. Accede a la carpeta del proyecto:
-   ```bash
-   cd nombre-del-repo
-   ```
+2. Accede a la carpeta del proyecto
+ 
 
 3. Instala las dependencias:
    ```bash
