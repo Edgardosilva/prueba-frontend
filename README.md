@@ -1,7 +1,5 @@
 # Prueba Técnica – Frontend Developer
 
-Hola Fernando,
-
 Este proyecto fue desarrollado como parte de la prueba técnica para el puesto de Frontend Developer. La aplicación fue construida utilizando **React** junto con **Vite**, y **Tailwind CSS** para el diseño y maquetación
 
 ## Tecnologías utilizadas
@@ -37,5 +35,4 @@ Este proyecto fue desarrollado como parte de la prueba técnica para el puesto d
 
 Cualquier comentario o ajuste adicional que necesites, estoy atento.
 
-Saludos,  
-Edgardo Silva
+
